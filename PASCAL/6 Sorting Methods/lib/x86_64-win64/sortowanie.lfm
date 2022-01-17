@@ -1,0 +1,179 @@
+object Form1: TForm1
+  Left = 1178
+  Height = 720
+  Top = 295
+  Width = 726
+  Caption = 'AiSD_5 Gawlik Krzysztof 147762 20/21 Informatyka 1'
+  ClientHeight = 720
+  ClientWidth = 726
+  LCLVersion = '2.0.10.0'
+  object ListBox_Dane_Nieposortowane: TListBox
+    Left = 168
+    Height = 376
+    Top = 48
+    Width = 176
+    ItemHeight = 0
+    TabOrder = 0
+  end
+  object ListBox_Dane_Posortowane: TListBox
+    Left = 496
+    Height = 376
+    Top = 48
+    Width = 176
+    ItemHeight = 0
+    TabOrder = 1
+  end
+  object Button_Losuj: TButton
+    Left = 24
+    Height = 81
+    Top = 152
+    Width = 115
+    Caption = 'Losuj'
+    OnClick = Button_LosujClick
+    TabOrder = 2
+  end
+  object Button_Kopiuj: TButton
+    Left = 360
+    Height = 25
+    Top = 152
+    Width = 120
+    Caption = '<-- Kopiuj'
+    OnClick = Button_KopiujClick
+    TabOrder = 3
+  end
+  object Button_Kopiuj_Odwrotnie: TButton
+    Left = 360
+    Height = 25
+    Top = 208
+    Width = 120
+    Caption = '<-- Kopiuj odwrotnie'
+    OnClick = Button_Kopiuj_OdwrotnieClick
+    TabOrder = 4
+  end
+  object Button_sB: TButton
+    Left = 24
+    Height = 25
+    Top = 464
+    Width = 296
+    Caption = 'Sortowanie bąbelkowe'
+    OnClick = Button_sBClick
+    TabOrder = 5
+  end
+  object Button_sPPW: TButton
+    Left = 24
+    Height = 25
+    Top = 503
+    Width = 296
+    Caption = 'Sortowanie przez proste wstawianie'
+    OnClick = Button_sPPWClick
+    TabOrder = 6
+  end
+  object Button_sPPWzS: TButton
+    Left = 24
+    Height = 25
+    Top = 538
+    Width = 296
+    Caption = 'Sortowanie przez proste wstawianie ze strażnikiem'
+    OnClick = Button_sPPWzSClick
+    TabOrder = 7
+  end
+  object Button_sPPWyb: TButton
+    Left = 24
+    Height = 25
+    Top = 578
+    Width = 296
+    Caption = 'Sortowanie przez proste wybieranie'
+    OnClick = Button_sPPWybClick
+    TabOrder = 8
+  end
+  object Button_sS: TButton
+    Left = 24
+    Height = 25
+    Top = 618
+    Width = 296
+    Caption = 'Sortowanie szybkie'
+    OnClick = Button_sSClick
+    TabOrder = 9
+  end
+  object Button_Info: TButton
+    Left = 456
+    Height = 49
+    Top = 632
+    Width = 88
+    Caption = 'Info'
+    OnClick = Button_InfoClick
+    TabOrder = 10
+  end
+  object Button_Koniec: TButton
+    Left = 584
+    Height = 49
+    Top = 632
+    Width = 88
+    Caption = 'Koniec'
+    OnClick = Button_KoniecClick
+    TabOrder = 11
+  end
+  object Edit_Zamiany: TEdit
+    Left = 496
+    Height = 23
+    Top = 456
+    Width = 176
+    ReadOnly = True
+    TabOrder = 12
+  end
+  object Edit_Porownania: TEdit
+    Left = 496
+    Height = 23
+    Top = 496
+    Width = 176
+    ReadOnly = True
+    TabOrder = 13
+  end
+  object Label1: TLabel
+    Left = 403
+    Height = 15
+    Top = 464
+    Width = 77
+    Caption = 'Liczba zamian:'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 387
+    Height = 15
+    Top = 504
+    Width = 93
+    Caption = 'Liczba porównań:'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 168
+    Height = 21
+    Top = 16
+    Width = 168
+    Caption = 'Dane nieposortowane'
+    Font.Height = -16
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 512
+    Height = 21
+    Top = 16
+    Width = 144
+    Caption = 'Dane posortowane'
+    Font.Height = -16
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Button_sShell: TButton
+    Left = 24
+    Height = 25
+    Top = 656
+    Width = 296
+    Caption = 'Sortowanie Shella'
+    OnClick = Button_sShellClick
+    TabOrder = 14
+  end
+end

@@ -1,0 +1,163 @@
+object Form1: TForm1
+  Left = 1171
+  Height = 433
+  Top = 576
+  Width = 737
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'Maszyna Trurla Gawlik Krzysztof 147762 20/21 Informatyka 1'
+  ClientHeight = 433
+  ClientWidth = 737
+  LCLVersion = '2.0.10.0'
+  object Label_A: TLabel
+    Left = 88
+    Height = 15
+    Top = 24
+    Width = 44
+    Caption = 'Liczba A'
+    ParentColor = False
+  end
+  object Edit_A: TEdit
+    Left = 88
+    Height = 23
+    Top = 40
+    Width = 80
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 96
+    Height = 233
+    Top = 144
+    Width = 256
+    OnChange = Memo1Change
+    ReadOnly = True
+    TabOrder = 1
+  end
+  object Button_Koniec: TButton
+    Left = 528
+    Height = 26
+    Top = 309
+    Width = 135
+    Caption = '&Koniec'
+    OnClick = Button_KoniecClick
+    TabOrder = 2
+  end
+  object Button_Wykonaj: TButton
+    Left = 528
+    Height = 23
+    Top = 160
+    Width = 135
+    Caption = 'Wykonaj'
+    OnClick = Button_WykonajClick
+    TabOrder = 3
+  end
+  object Button_Info: TButton
+    Left = 528
+    Height = 24
+    Top = 231
+    Width = 135
+    Caption = '&Info'
+    OnClick = Button_InfoClick
+    TabOrder = 4
+  end
+  object Label_B: TLabel
+    Left = 272
+    Height = 15
+    Top = 24
+    Width = 43
+    Caption = 'Liczba B'
+    ParentColor = False
+  end
+  object Edit_B: TEdit
+    Left = 272
+    Height = 23
+    Top = 40
+    Width = 80
+    TabOrder = 5
+  end
+  object Label_B1: TLabel
+    Left = 456
+    Height = 15
+    Top = 24
+    Width = 33
+    Caption = 'Wynik'
+    ParentColor = False
+  end
+  object Edit_Wynik: TEdit
+    Left = 456
+    Height = 23
+    Top = 40
+    Width = 207
+    NumbersOnly = True
+    ReadOnly = True
+    TabOrder = 6
+  end
+  object StaticText1: TStaticText
+    Left = 216
+    Height = 29
+    Top = 34
+    Width = 11
+    AutoSize = True
+    Caption = 'x'
+    Font.Height = -20
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 7
+  end
+  object StaticText2: TStaticText
+    Left = 400
+    Height = 29
+    Top = 34
+    Width = 14
+    AutoSize = True
+    Caption = '='
+    Font.Height = -20
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 8
+  end
+  object Button_Historia: TButton
+    Left = 398
+    Height = 83
+    Top = 200
+    Width = 91
+    Caption = 'Historia'
+    OnClick = Button_HistoriaClick
+    TabOrder = 9
+  end
+  object Pb: TPaintBox
+    Left = 264
+    Height = 40
+    Top = 80
+    Width = 224
+    ParentColor = False
+    ParentFont = False
+  end
+  object Shape2: TShape
+    Left = 352
+    Height = 30
+    Top = 85
+    Width = 51
+    Brush.Color = 38550
+    Pen.Style = psClear
+    Shape = stCircle
+  end
+  object Shape1: TShape
+    Left = 280
+    Height = 30
+    Top = 85
+    Width = 51
+    Brush.Color = 38550
+    Pen.Style = psClear
+    Shape = stCircle
+  end
+  object Shape3: TShape
+    Left = 424
+    Height = 30
+    Top = 85
+    Width = 51
+    Brush.Color = 38550
+    Pen.Style = psClear
+    Shape = stCircle
+  end
+end

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Projekt_sortowanie.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="38"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="sortowanie.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Sortowanie"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="12" Y="136"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="422"/>
+        <CursorPos Y="461"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="149" Column="42" TopLine="112"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="141" Column="38" TopLine="65"/>
+      </Position2>
+      <Position3>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="89" Column="9" TopLine="61"/>
+      </Position3>
+      <Position4>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="190" TopLine="102"/>
+      </Position4>
+      <Position5>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="182" Column="5" TopLine="55"/>
+      </Position5>
+      <Position6>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="132" Column="3" TopLine="64"/>
+      </Position6>
+      <Position7>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="127" Column="34" TopLine="62"/>
+      </Position7>
+      <Position8>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="183" Column="27" TopLine="142"/>
+      </Position8>
+      <Position9>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="215" Column="20" TopLine="193"/>
+      </Position9>
+      <Position10>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="214" Column="18" TopLine="109"/>
+      </Position10>
+      <Position11>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="287" Column="48" TopLine="100"/>
+      </Position11>
+      <Position12>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="281" TopLine="37"/>
+      </Position12>
+      <Position13>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="43" Column="43" TopLine="19"/>
+      </Position13>
+      <Position14>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="115" Column="16" TopLine="74"/>
+      </Position14>
+      <Position15>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="133" Column="42" TopLine="85"/>
+      </Position15>
+      <Position16>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="68" Column="3" TopLine="49"/>
+      </Position16>
+      <Position17>
+        <Filename Value="sortowanie.pas"/>
+        <Caret Line="120" Column="21" TopLine="76"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

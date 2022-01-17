@@ -1,0 +1,12 @@
+Nazwisko: Gawlik
+Oceny: 5, 2, 3, 4, 5, 
+Srednia: 4
+----------------------------
+Nazwisko: Richie
+Oceny: 1, 2, 3, 4, 5, 
+Srednia: 3
+----------------------------
+Nazwisko: Another
+Oceny: 4, 5, 4, 5, 4, 
+Srednia: 4.4
+----------------------------

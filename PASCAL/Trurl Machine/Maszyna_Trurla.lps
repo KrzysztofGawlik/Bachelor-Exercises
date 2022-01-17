@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="Maszyna_Trurla.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Maszyna_Trurla_Main"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="37"/>
+        <CursorPos X="11" Y="54"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1764"/>
+        <CursorPos X="20" Y="1787"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="416"/>
+        <CursorPos Y="446"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="629"/>
+        <CursorPos Y="666"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="108" Column="21" TopLine="89"/>
+      </Position1>
+      <Position2>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="110" Column="92" TopLine="87"/>
+      </Position2>
+      <Position3>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="122" Column="102" TopLine="99"/>
+      </Position3>
+      <Position4>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="108" Column="52" TopLine="86"/>
+      </Position4>
+      <Position5>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="130" Column="2" TopLine="104"/>
+      </Position5>
+      <Position6>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="140" Column="37" TopLine="106"/>
+      </Position6>
+      <Position7>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="120" Column="63" TopLine="92"/>
+      </Position7>
+      <Position8>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="122" Column="6" TopLine="100"/>
+      </Position8>
+      <Position9>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="96" Column="39" TopLine="81"/>
+      </Position9>
+      <Position10>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="95" Column="39" TopLine="72"/>
+      </Position10>
+      <Position11>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="98" Column="70" TopLine="70"/>
+      </Position11>
+      <Position12>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="97" Column="70" TopLine="69"/>
+      </Position12>
+      <Position13>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="93" Column="52" TopLine="69"/>
+      </Position13>
+      <Position14>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="94" Column="69" TopLine="77"/>
+      </Position14>
+      <Position15>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="100" Column="23" TopLine="71"/>
+      </Position15>
+      <Position16>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="91" Column="23" TopLine="67"/>
+      </Position16>
+      <Position17>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="96" Column="25" TopLine="78"/>
+      </Position17>
+      <Position18>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="91" Column="29" TopLine="77"/>
+      </Position18>
+      <Position19>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="96" Column="22" TopLine="77"/>
+      </Position19>
+      <Position20>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="91" Column="6" TopLine="74"/>
+      </Position20>
+      <Position21>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="92" Column="6" TopLine="75"/>
+      </Position21>
+      <Position22>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="93" Column="6" TopLine="76"/>
+      </Position22>
+      <Position23>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="98" Column="21" TopLine="77"/>
+      </Position23>
+      <Position24>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="112" Column="9" TopLine="81"/>
+      </Position24>
+      <Position25>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="108" Column="38" TopLine="82"/>
+      </Position25>
+      <Position26>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="51" Column="19" TopLine="27"/>
+      </Position26>
+      <Position27>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="49" Column="8" TopLine="37"/>
+      </Position27>
+      <Position28>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="64" Column="7" TopLine="35"/>
+      </Position28>
+      <Position29>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="56" Column="21" TopLine="34"/>
+      </Position29>
+      <Position30>
+        <Filename Value="maszyna_trurla_main.pas"/>
+        <Caret Line="60" Column="21" TopLine="37"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
